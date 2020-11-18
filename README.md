@@ -1,3 +1,3 @@
 # prova
 
-Descripció programa prova.
+Descripció programa prova
